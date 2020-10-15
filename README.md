@@ -2,8 +2,11 @@ An ActionScript/Box2D based custom graphics engine, which is suitable for making
 
 This project is not being maintained and has known issues. This repository is being published for two purposes:
 
-My personal reference
-To help people who are trying to develop similar things. Such people can copy the source code they see here but all assets are forbidden to be copied or used in anywhere else for any purposes.
+- My personal reference
+- To help people who are trying to develop similar things. Such people can copy the source code they see here but all assets are forbidden to be copied or used in anywhere else for any purposes.
+
+You can execute Stage1.html in your browser and see the result. Note that your borwser will be asking for FlashPlayer support. You may have to manually enable it in order to get this project working.
+
 Please do not ask me to:
 
 - Correct some issue in the code
